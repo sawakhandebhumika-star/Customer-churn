@@ -1,4 +1,4 @@
-# Customer-churn
+# CUSTOMERS-CHURN-ANALYSIS & RETENTION DASHBOARD
 
 Tools: Excel | SQL | Python | Power BI | Tableau
 
